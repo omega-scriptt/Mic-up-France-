@@ -3,7 +3,7 @@
 
   This code has been obfuscated by Secrovia.
   Secrovia is a Lua obfuscator that protects your Lua code from reverse engineering and tampering.
-  Public license ID: JDRS-HX7X-J33R-GN27-2VSL-J7QX-I5IV-OX4C
+  Public license ID: 
   This license ID is used to verify the integrity of the obfuscated code.
 
   Secrovia LLC - https://secrovia.com
